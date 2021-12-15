@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6f4438c-5a1d-4624-a62d-f91dad623acd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ Projeto_20_for_while/ForWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Projeto_20_for_while/Projeto_20_for_while.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio01_java06/Exercicio01_java06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio01_java06/SequenciadeNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio01_java07/Exercicio01_java07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio01_java07/SequenciaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio01_java08/DezValores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio01_java08/Exercicio01_java08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio02_java05/Exercicio02_java05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio02_java05/Imprima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio02_java06/Exercicio02_java06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio02_java06/Tela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio02_java07/Exercicio02_java07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio02_java07/TelaQuadrados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio02_java08/CincoNomes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio02_java08/Exercicio02_java08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio03_java05/Construir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio03_java05/Exercicio03_java05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio03_java06/ExemploTela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio03_java06/Exercicio03_java06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio03_java07/Exercicio03_java07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio03_java07/LerNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio03_java08/Exercicio03_java08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio03_java08/Sorteio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio04_Java05/Exercicio04_Java05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio04_Java05/ImprimaMetade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio04_java06/Exercicio04_java06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio04_java06/IdadeAltura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio04_java07/Exercicio04_java07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio04_java07/Idade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio04_java08/Exercicio04_java08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio04_java08/VetorInteiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio05_java05/Exercicio05_java05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio05_java05/tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio05_java06/Exercicio05_java06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio05_java06/notas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio05_java07/Alunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio05_java07/Exercicio05_java07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio06_java05/Exercicio06_java05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio06_java05/Menornumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio06_java06/Exercicio06_java06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio06_java06/Mensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio06_java07/Exercicio06_java07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio06_java07/Pessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio07_java05/Exercicio07_java05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio07_java05/imc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_18_for/ExemploIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_18_for/Projeto_18_for.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_19_Multiplos/Multiplos2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_19_Multiplos/Projeto_19_Multiplos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_21_for_while_2/ForWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_21_for_while_2/Projeto_21_for_while_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_22_teste_de_mesa/Projeto_22_teste_de_mesa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_22_teste_de_mesa/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_23_Teste_de_mesa/Projeto_23_Teste_de_mesa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_23_Teste_de_mesa/Teste2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_24_teste_de_mesa/Projeto_24_teste_de_mesa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_24_teste_de_mesa/Teste3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_25_vetores/Exemplo1Veto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_25_vetores/Projeto_25_vetores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_26_vetores/MaiorValor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_26_vetores/Projeto_26_vetores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_27_vetores/Projeto_27_vetores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_27_vetores/SomaVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_28_strings/Projeto_28_strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_28_strings/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_29_strings/Projeto_29_strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto_29_strings/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio01_Java05/Sequencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio01_Java05/Sequencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22FmHeqJQ5j5G4Wk0IpYx5DKQdM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6f4438c-5a1d-4624-a62d-f91dad623acd" name="Changes" comment="" />
+      <created>1639441625259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639441625259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
